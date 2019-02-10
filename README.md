@@ -1,1 +1,1 @@
-# Coursera_Capstone_IBM_DataScience
+# IBM DataScience Professional Coursera Capstone
